@@ -11,6 +11,7 @@
 ![6 4](https://user-images.githubusercontent.com/87646938/126897209-6c5b984e-81c8-43b9-af57-c91c2cd597d3.jpg)
  - 깃발과 충돌하여 게임 오버 씬을 띄워주며, 화면을 탭 하면 초기 화면으로 돌아감
 
+<center>
   ![6 1](https://user-images.githubusercontent.com/87646938/126897176-b40db132-f91f-44af-8e7d-8d3b224ddd60.jpg)       ![6 2](https://user-images.githubusercontent.com/87646938/126897186-68174da0-6568-43d3-b943-bf9ae0399965.jpg) 
   
   초기 실행 화면 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 좌우 이동 및 점프를 하며 구름을 타고 올라가는 모습<br>
@@ -18,7 +19,7 @@
   ![6 3](https://user-images.githubusercontent.com/87646938/126897197-14a511c6-7bfd-4cf7-a179-54ad529a6463.jpg)       ![6 4](https://user-images.githubusercontent.com/87646938/126897209-6c5b984e-81c8-43b9-af57-c91c2cd597d3.jpg) 
   
   깃발(도착 지점)에 플레이어가 충돌하면 게임을 끝냄 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 깃발과 충돌하면 게임 오버 씬을 띄워주며, 화면을 탭 하면 초기 화면으로 돌아감
-
+</center>
 
 
 
